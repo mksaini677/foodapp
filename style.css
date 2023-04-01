@@ -1,0 +1,247 @@
+.section1 {
+  width: 100%;
+  height: 80px;
+  background-color: #f9fafd;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.login {
+  color: #ffb30e;
+}
+.logo-text {
+  font-size: 30px;
+}
+.section2 {
+  width: 100%;
+  height: 800px;
+  background-color: #ffb30e;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: flex-end;
+}
+.div2 {
+  width: 50%;
+  height: 800px;
+  background-color: #ffb30e;
+  /* justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column; */
+}
+.div1 {
+  width: 50%;
+  height: 800px;
+  background-color: #ffb30e;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.text1 {
+  font-size: 50px;
+  color: white;
+}
+.text2 {
+  font-size: 30px;
+}
+.logo-text {
+  font-size: 80px;
+}
+.enter {
+  width: 70%;
+  height: 20px;
+}
+.click {
+  width: 20%;
+  height: 30px;
+  background-color: #f17228;
+  color: white;
+}
+.find-food-box {
+  width: 70%;
+  height: 150px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10px;
+}
+.manoj {
+  width: 50%;
+  height: 50px;
+  display: flex;
+}
+
+.delivery {
+  padding: 10px;
+  background-color: white;
+  display: flex;
+  background-color: antiquewhite;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 20px;
+}
+.pickup {
+  padding: 10px;
+  background-color: white;
+  display: flex;
+}
+
+.food-box-icon {
+  margin-right: 8px;
+  color: #ffb30e;
+}
+.section3 {
+  width: 100%;
+  height: auto;
+  margin-top: 40px;
+  background-color:white(67, 35, 225, 0.875);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.buttoncolor{
+  color: #f17228;
+}
+
+.brown {
+  width: 25%;
+  height: auto;
+ margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  
+}
+
+.food-img{
+    position: relative;
+}
+
+.discount-box{
+    padding: 10px;
+    background-color: #f17228;
+    color: white;
+    position: absolute;
+    bottom: 4px;
+    left: 0px;
+}
+
+
+.boxtext{
+    font-size: 20px;
+    /* margin-bottom: 10px; */
+    /* margin-top: 10px; */
+    /* padding-top: 20px; */
+    /* border: 1px red solid; */
+    padding: 20px;
+    border-bottom-left-radius: 10px;
+}
+.section4{
+  width: 100%;
+  height: 500px;
+  background-color:#fff9ee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.section5{
+  width: 100%;
+  height: 600px;
+  background-color:#fff9ee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sectionbox4{
+  width: 20%;
+  height: 300px;
+  /* background-color: #f17228; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imagebox{
+  width: 20%;
+  height: 80px;
+}
+.textsize{
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.size{
+  font-size: 20px;
+}
+.how{
+  width: 500px;
+  height: 50px;
+  font-size: 50px;
+  display: flex;
+  color: #f17228;
+  padding-top: 100px;
+ 
+  /* flex-direction: row; */
+  justify-content: center;
+  align-items: center;
+ 
+}
+.section6{
+  width: 100%;
+  height: 400px;
+  /* background-color: #f17228; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+
+}
+.sectiontype{
+  width: 20%;
+  height: 400px;
+  /* background-color: aqua; */
+  
+}
+.divs1{
+  width: 100%;
+  height: 400px;
+  display: flex;
+}
+.divs2{
+  width: 100%;
+  height: 100px;
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divs12{
+  width: 100%;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+.popular{
+  font-size: 40px;
+}
+.fontcolor{
+background-color: #f17228;
+color: white;
+width: 250px;
+height: 30px;
+font-size: 20px;
+}
+.imageradius{
+  border-radius: 10px;
+}
